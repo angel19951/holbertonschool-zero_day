@@ -1,1 +1,1 @@
-# holbertonschool-zero_day
+Be up to date
