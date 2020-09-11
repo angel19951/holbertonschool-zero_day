@@ -1,0 +1,1 @@
+Example of opening filed with emacs.
